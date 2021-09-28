@@ -1,0 +1,45 @@
+html
+{
+    font-family: sans-serif;
+}
+body
+{
+    background-color: #a4bcdd;
+}
+h1 
+{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-weight: 400;
+    display: block;
+}
+.team__img 
+{
+    width: 820px;
+    margin: 0 auto;
+}
+img 
+{
+    width:820px;
+}
+.team__name 
+{
+    text-align: center;
+}
+.team__name-list 
+{
+    list-style: none;
+}
+.team__name-item 
+{
+    display: inline-block;
+    margin: 0 80px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.team__name-item:last-child
+{
+    margin-left: 60px;
+}
+
